@@ -93,31 +93,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Hey, I'm Mohit"
+  avatar           :  path of avatar image, e.g. "https://avatars1.githubusercontent.com/u/38419463?s=460&u=cf96b598a2bfc9df21cc3cdac11fbed143761701&v=4"
+  bio              : "I am currently a final year Masters student at Bioinformatics Centre, Savitribai Phule Pune University, India. My thesis work focuses on addressing the protein folding problem from the perspective of complex networks (small-world network property), probing residue interaction graph models of protein structures. Other interests include understanding complex networks (both biological and artificial), chaos, neural circuits, SciComm, illustrations and getting lost in random places."
+  location         : "Pune, India"
+  email            : "mohitzipper@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:mohitzipper@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+       url: "https://twitter.com/pottersnewt"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/mxhit-j"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
+      # url: "https://instagram.com/_findyourhappyplace_"
 # Site Footer
 footer:
   links:
